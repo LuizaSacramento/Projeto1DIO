@@ -1,1 +1,3 @@
 # Projeto1DIO
+Esta planilha foi criada para um planejamento e simulações de investimentos mensais, baseadas em aportes periódicos e rendimentos mensais. Com sua configuração, ela permite que o usuário vizualize de forma clara e organizada, o andamento do patrimônio ao longo do tempo, e os dividendos mensais esperados.
+O usuário pode fazer simulações para saber quanto precisa investir por mês para alcançar determinados objetivos financeiros, informa o quanto o investidor poderá receber de dividendos mensais, com base na rentabilidade da carteira, indica quanto do salário poderia ser destinado a investimentos (nesse caso, 30%), e mostra como distribuir esse valor mensal de uma maneira equilibrada em diferentes tipos de FIIs.
